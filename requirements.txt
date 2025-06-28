@@ -1,0 +1,12 @@
+google-colab
+jiwer
+matplotlib
+nltk
+numpy
+pandas
+psutil
+rouge_score
+scikit-learn
+seaborn
+spacy
+tensorflow
